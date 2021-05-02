@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		CF0BAC23263E74BC00ADEEC0 /* GitXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GitXcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF0BAC26263E74BC00ADEEC0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CF0BAC2D263E7A9100ADEEC0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				CF0BAC26263E74BC00ADEEC0 /* main.swift */,
+				CF0BAC2D263E7A9100ADEEC0 /* .gitignore */,
 			);
 			path = GitXcode;
 			sourceTree = "<group>";
@@ -90,6 +92,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
+				ORGANIZATIONNAME = "Young-seok Cho";
 				TargetAttributes = {
 					CF0BAC22263E74BC00ADEEC0 = {
 						CreatedOnToolsVersion = 12.5;
